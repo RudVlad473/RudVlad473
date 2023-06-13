@@ -12,7 +12,8 @@
   </a>
 </p>
 
-<ul align="center">
+<div align="center">
+<ul>
   <li>
     🌱 I’m currently learning <b>React, Typescript and Redux Toolkit<b />
   </li>
@@ -34,6 +35,7 @@
     ⚡ Fun fact: <b>Javascript is a subset of Typescript (͡° ͜ʖ ͡°) ▄︻̷̿┻̿═━一 (ʘᗩʘ')</b>
   </li>
 </ul>
+</div>
 
 <p align="center">
   <img align="center"
