@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<ul>
+<ul align="center">
   <li>
     🌱 I’m currently learning <b>React, Typescript and Redux Toolkit<b />
   </li>
