@@ -17,8 +17,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudvlad473&show_icons=true&locale=en&layout=compact" alt="rudvlad473" /></p>
 
-＜￣｀ヽ、　　　　　　　／ ￣ ＞
-　ゝ、　　＼　／⌒ヽ,ノ 　 /´
-　　　ゝ、 （ ( ͡◉ ͜> ͡◉) ／
-　　 　　>　 　 　,ノ
-　　　　　∠_,,,/´
+＜￣｀ヽ、　　　　　　　／ ￣ ＞><br/>
+　ゝ、　　＼　／⌒ヽ,ノ 　 /´<br/>
+　　　ゝ、 （ ( ͡◉ ͜> ͡◉) ／<br/>
+　　 　　>　 　 　,ノ<br/>
+　　　　　∠_,,,/´<br/>
