@@ -14,7 +14,7 @@
 
 <ul style="font-size: 64px; margin-inline: auto;">
   <li>
-    🌱 I’m currently learning <b>React, Typescript and Redux Toolkit<b />
+    🌱 <h1>I’m currently learning <b>React, Typescript and Redux Toolkit<b /></h1>
   </li>
 
   <li>
