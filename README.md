@@ -7,17 +7,27 @@
 
 - 🌱 I’m currently learning **React, Typescript and Redux Toolkit**
 
-- 👨‍💻 All of my projects are available at [my github](https://github.com/RudVlad473)
+- 👨‍💻 All of my projects are available at [my github](https://github.com/RudVlad473) ヅ
 
-- 📫 [How to reach me](https://www.linkedin.com/in/vladimir-rudenko/)
+- 📫 [How to reach me](https://www.linkedin.com/in/vladimir-rudenko/) ༼ つ ◕_◕ ༽つ
 
-- 📄 [Know about my experiences](https://drive.google.com/file/d/1I8OxEmtchfUjusL5cvRjkN5pLDuv8UYk/view?usp=sharing)
+- 📄 [Know about my experiences](https://drive.google.com/file/d/1I8OxEmtchfUjusL5cvRjkN5pLDuv8UYk/view?usp=sharing) ᕦ(ò_óˇ)ᕤ
 
 - ⚡ Fun fact: **Javascript is a subset of Typescript (͡° ͜ʖ ͡°) ▄︻̷̿┻̿═━一 (ʘᗩʘ')**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudvlad473&show_icons=true&locale=en&layout=compact" alt="rudvlad473" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudvlad473&show_icons=true&locale=en&layout=compact" alt="rudvlad473" /></p>
 
 ＜￣｀ヽ、　　　　　　　／ ￣ ＞><br/>
+　ゝ、　　＼　／⌒ヽ,ノ 　 /´<br/>
+　　　ゝ、 （ ( ͡◉ ͜> ͡◉) ／<br/>
+　　 　　>　 　 　,ノ<br/>
+　　　　　∠_,,,/´<br/>
+＜￣｀ヽ、　　　　　　　／ ￣ ＞><br/>
+　ゝ、　　＼　／⌒ヽ,ノ 　 /´<br/>
+　　　ゝ、 （ ( ͡◉ ͜> ͡◉) ／<br/>
+　　 　　>　 　 　,ノ<br/>
+　　　　　∠_,,,/´<br/>
+  ＜￣｀ヽ、　　　　　　　／ ￣ ＞><br/>
 　ゝ、　　＼　／⌒ヽ,ノ 　 /´<br/>
 　　　ゝ、 （ ( ͡◉ ͜> ͡◉) ／<br/>
 　　 　　>　 　 　,ノ<br/>
