@@ -16,3 +16,9 @@
 - ⚡ Fun fact: **Javascript is a subset of Typescript (͡° ͜ʖ ͡°) ▄︻̷̿┻̿═━一 (ʘᗩʘ')**
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudvlad473&show_icons=true&locale=en&layout=compact" alt="rudvlad473" /></p>
+
+＜￣｀ヽ、　　　　　　　／ ￣ ＞
+　ゝ、　　＼　／⌒ヽ,ノ 　 /´
+　　　ゝ、 （ ( ͡◉ ͜> ͡◉) ／
+　　 　　>　 　 　,ノ
+　　　　　∠_,,,/´
