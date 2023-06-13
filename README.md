@@ -1,9 +1,9 @@
 <h1 align="center">Greetings 👋, I'm Vladimir</h1>
 <h3 align="center">A motivated frontend developer from Kharkiv, Ukraine</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudvlad473&label=Profile%20views&color=0e75b6&style=flat" alt="rudvlad473" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rudvlad473&label=Profile%20views&color=0e75b6&style=flat" alt="rudvlad473" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudvlad473" alt="rudvlad473" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rudvlad473" alt="rudvlad473" /></a> </p>
 
 - 🌱 I’m currently learning **React, Typescript and Redux Toolkit**
 
