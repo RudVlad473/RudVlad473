@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<ul style="font-size: 32px; margin-inline: auto;">
+<ul style="font-size: 64px; margin-inline: auto;">
   <li>
     🌱 I’m currently learning <b>React, Typescript and Redux Toolkit<b />
   </li>
