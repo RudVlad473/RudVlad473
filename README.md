@@ -14,24 +14,24 @@
 
 <ul>
   <li>
-    🌱 I’m currently learning **React, Typescript and Redux Toolkit**
+    🌱 I’m currently learning <b>React, Typescript and Redux Toolkit<b />
   </li>
 
   <li>
-    👨‍💻 All of my projects are available at [my github](https://github.com/RudVlad473) **ヅ**
+    👨‍💻 All of my projects are available at [my github](https://github.com/RudVlad473) <b>ヅ</b>
   </li>
 
   <li>
-    📫 [How to reach me](https://www.linkedin.com/in/vladimir-rudenko/) **༼ つ ◕_◕ ༽つ**
+    📫 [How to reach me](https://www.linkedin.com/in/vladimir-rudenko/) <b>༼ つ ◕_◕ ༽つ</b>
   </li>
 
   <li>
     📄 [Know about my experiences](https://drive.google.com/file/d/1I8OxEmtchfUjusL5cvRjkN5pLDuv8UYk/view?usp=sharing)
-    **ᕦ(ò_óˇ)ᕤ**
+    <b>ᕦ(ò_óˇ)ᕤ</b>
   </li>
 
   <li>
-    ⚡ Fun fact: **Javascript is a subset of Typescript (͡° ͜ʖ ͡°) ▄︻̷̿┻̿═━一 (ʘᗩʘ')**
+    ⚡ Fun fact: <b>Javascript is a subset of Typescript (͡° ͜ʖ ͡°) ▄︻̷̿┻̿═━一 (ʘᗩʘ')</b>
   </li>
 </ul>
 
