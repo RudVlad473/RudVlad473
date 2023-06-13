@@ -12,9 +12,9 @@
   </a>
 </p>
 
-<ul style="font-size: 64px; margin-inline: auto;">
-  <li>
-    🌱 <h1>I’m currently learning <b>React, Typescript and Redux Toolkit<b /></h1>
+<ul >
+  <li style="font-size: 18px; margin-inline: auto;">
+    🌱 I’m currently learning <b>React, Typescript and Redux Toolkit<b />
   </li>
 
   <li>
