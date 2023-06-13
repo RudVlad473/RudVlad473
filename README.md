@@ -12,21 +12,21 @@
   </a>
 </p>
 
-<ul >
-  <li style="font-size: 18px; margin-inline: auto;">
+<ul>
+  <li>
     🌱 I’m currently learning <b>React, Typescript and Redux Toolkit<b />
   </li>
 
   <li>
-    👨‍💻 All of my projects are available at [my github](https://github.com/RudVlad473) <b>ヅ</b>
+    👨‍💻 All of my projects are available at <a href="https://github.com/RudVlad473">my github</a> <b>ヅ</b>
   </li>
 
   <li>
-    📫 [How to reach me](https://www.linkedin.com/in/vladimir-rudenko/) <b>༼ つ ◕_◕ ༽つ</b>
+    📫 <a href="https://www.linkedin.com/in/vladimir-rudenko/">How to reach me</a> <b>༼ つ ◕_◕ ༽つ</b>
   </li>
 
   <li>
-    📄 [Know about my experiences](https://drive.google.com/file/d/1I8OxEmtchfUjusL5cvRjkN5pLDuv8UYk/view?usp=sharing)
+    📄 <a href="https://drive.google.com/file/d/1I8OxEmtchfUjusL5cvRjkN5pLDuv8UYk/view?usp=sharing">Know about my experiences</a>
     <b>ᕦ(ò_óˇ)ᕤ</b>
   </li>
 
