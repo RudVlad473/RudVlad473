@@ -1,5 +1,5 @@
-<h1 align="center">Greetings 👋, I'm Vladimir</h1>
-<h3 align="center">A motivated frontend developer from Kharkiv, Ukraine</h3>
+<h1 align="center">Greetings 👋, I'm Volodymyr</h1>
+<h3 align="center">A motivated frontend developer from Katowice, Poland</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rudvlad473&label=Profile%20views&color=0e75b6&style=flat"
@@ -14,7 +14,7 @@
 
 <ul>
   <li>
-    🌱 I’m currently learning <b>React, Typescript and Redux Toolkit<b />
+    🌱 I'm passionate about Javascript and everything related<b />
   </li>
 
   <li>
