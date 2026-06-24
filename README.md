@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Volodymyr</h1>
-<h3 align="center">A motivated frontend developer from Katowice, Poland</h3>
+<h3 align="center">A motivated full-stack developer from Katowice, Poland</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rudvlad473&label=Profile%20views&color=0e75b6&style=flat"
@@ -18,7 +18,7 @@
   </li>
 
   <li>
-    👨‍💻 All of my projects are available at <a href="https://github.com/RudVlad473">my github</a> <b>ヅ</b>
+    👨‍💻 All of my projects are available at <a href="https://github.com/RudVlad473">my Github</a> <b>ヅ</b>
   </li>
 
   <li>
@@ -34,9 +34,3 @@
     ⚡ Fun fact: <b>Javascript is a subset of Typescript (͡° ͜ʖ ͡°) ▄︻̷̿┻̿═━一 (ʘᗩʘ')</b>
   </li>
 </ul>
-
-<p align="center">
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rudvlad473&show_icons=true&locale=en&layout=compact"
-    alt="rudvlad473" />
-</p>
