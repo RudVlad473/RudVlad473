@@ -26,7 +26,7 @@
   </li>
 
   <li>
-    📄 <a href="https://drive.google.com/file/d/1I8OxEmtchfUjusL5cvRjkN5pLDuv8UYk/view?usp=sharing">Know about my experiences</a>
+    📄 <a href="https://drive.google.com/file/d/1bqBVZyLyLsGPHYIHQ3efePkF3-zqhDLZ/view?usp=sharing">Know about my experiences</a>
     <b>ᕦ(ò_óˇ)ᕤ</b>
   </li>
 
