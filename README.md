@@ -1,7 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Volodymyr</h1>
-<h3 align="center">A motivated full-stack developer from Katowice, Poland</h3>
-
-# Vladimir Rudenko
+<h3 align="center">A dedicated full-stack developer from Katowice, Poland</h3>
 
 Full-stack engineer in Katowice, working in e-commerce. 
 
