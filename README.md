@@ -1,36 +1,21 @@
 <h1 align="center">Greetings 👋, I'm Volodymyr</h1>
 <h3 align="center">A motivated full-stack developer from Katowice, Poland</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rudvlad473&label=Profile%20views&color=0e75b6&style=flat"
-    alt="rudvlad473" />
-</p>
+# Vladimir Rudenko
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rudvlad473" alt="rudvlad473" />
-  </a>
-</p>
+Full-stack engineer in Katowice, working in e-commerce. 
 
-<ul>
-  <li>
-    🌱 I'm passionate about Javascript and everything related<b />
-  </li>
+Backend-leaning: Go and Java/Spring on the server, React and TypeScript on the client, AWS and Terraform underneath.
 
-  <li>
-    👨‍💻 All of my projects are available at <a href="https://github.com/RudVlad473">my Github</a> <b>ヅ</b>
-  </li>
+The pinned repos are a mix of Go, Spring Boot, and TypeScript — backend services and full-stack apps.
 
-  <li>
-    📫 <a href="https://www.linkedin.com/in/vladimir-rudenko/">How to reach me</a> <b>༼ つ ◕_◕ ༽つ</b>
-  </li>
+### Stack
+**Backend:** Go · Java / Spring Boot · Node.js (NestJS)
+**Frontend:** React · TypeScript · Redux Toolkit
+**Infra & observability:** AWS · Terraform · New Relic · Splunk
 
-  <li>
-    📄 <a href="https://drive.google.com/file/d/1bqBVZyLyLsGPHYIHQ3efePkF3-zqhDLZ/view?usp=sharing">Know about my experiences</a>
-    <b>ᕦ(ò_óˇ)ᕤ</b>
-  </li>
-
-  <li>
-    ⚡ Fun fact: <b>Javascript is a subset of Typescript (͡° ͜ʖ ͡°) ▄︻̷̿┻̿═━一 (ʘᗩʘ')</b>
-  </li>
-</ul>
+### Links
+- Portfolio — https://personal-portfolio-pied-theta.vercel.app/
+- [Resume | Google Drive](https://drive.google.com/file/d/1bqBVZyLyLsGPHYIHQ3efePkF3-zqhDLZ/view?usp=sharing)
+- [LinkedIn](https://www.linkedin.com/in/vladimir-rudenko/)
+- Contact me: rudenkovladimir2003@gmail.com
