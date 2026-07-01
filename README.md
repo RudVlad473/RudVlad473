@@ -1,7 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Volodymyr</h1>
-<h3 align="center">A dedicated full-stack developer from Katowice, Poland</h3>
-
-Full-stack engineer in Katowice, working in e-commerce. 
+<h3 align="center">Full-stack engineer in Katowice, working in e-commerce.</h3>
 
 Backend-leaning: Go and Java/Spring on the server, React and TypeScript on the client, AWS and Terraform underneath.
 
