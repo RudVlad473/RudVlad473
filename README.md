@@ -8,7 +8,7 @@ Backend-leaning: Go and Java/Spring on the server, React and TypeScript on the c
 The pinned repos are a mix of Go, Spring Boot, and TypeScript — backend services and full-stack apps.
 
 ### Stack
-**Backend:** Go · Java / Spring Boot · Node.js (NestJS)
+**Backend:** Java / Spring Boot · Golang (adjacent)
 **Frontend:** React · TypeScript · Redux Toolkit
 **Infra & observability:** AWS · Terraform · New Relic · Splunk
 
