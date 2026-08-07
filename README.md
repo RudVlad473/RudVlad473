@@ -1,5 +1,5 @@
 <h1 align="center">Greetings 👋, I'm Volodymyr</h1>
-<h3 align="center">Full-stack engineer in Katowice, working in e-commerce.</h3>
+<h3 align="center">Full-Stack Engineer in Katowice, originally from Ukraine, working in e-commerce.</h3>
 
 ### Stack
 - **Backend:** Java / Spring Boot · Golang (adjacent)
