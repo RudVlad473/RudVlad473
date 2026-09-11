@@ -2,9 +2,9 @@
 <h3 align="center">Full-Stack Engineer in Katowice, originally from Ukraine, working in e-commerce.</h3>
 
 ### Stack
-- **Backend:** Java / Spring Boot · Golang (adjacent)
+- **Backend:** Java / Spring Boot
 - **Frontend:** React · TypeScript · Redux Toolkit
-- **Infra & observability:** AWS · New Relic · Splunk
+- **Infra & observability:** AWS · New Relic · Splunk · Graphana
 
 ### Links
 - [Resume | Google Drive](https://docs.google.com/document/d/1fd4Xj-ppJBZspT09uQMmy1n8FONcWaJz/edit?usp=sharing&ouid=117436669495533270581&rtpof=true&sd=true)
