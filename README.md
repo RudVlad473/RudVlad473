@@ -7,6 +7,6 @@
 - **Infra & observability:** AWS · New Relic · Splunk
 
 ### Links
-- [Resume | Google Drive](https://drive.google.com/file/d/1bqBVZyLyLsGPHYIHQ3efePkF3-zqhDLZ/view?usp=sharing)
+- [Resume | Google Drive](https://docs.google.com/document/d/1fd4Xj-ppJBZspT09uQMmy1n8FONcWaJz/edit?usp=sharing&ouid=117436669495533270581&rtpof=true&sd=true)
 - [LinkedIn](https://www.linkedin.com/in/vladimir-rudenko/)
 - Contact me: rudenkovladimir2003@gmail.com
