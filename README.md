@@ -3,7 +3,7 @@
 
 ### Stack
 - **Backend:** Java / Spring Boot
-- **Frontend:** React · TypeScript · Redux Toolkit
+- **Frontend:** Next.js · React · TypeScript · Redux Toolkit
 - **Infra & observability:** AWS · New Relic · Splunk · Graphana
 
 ### Links
